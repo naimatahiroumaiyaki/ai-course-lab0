@@ -1,0 +1,13 @@
+PS C:\Users\naima.maiyaki\%naima.maiyaki%\ai_labs> & C:/Users/naima.maiyaki/%naima.maiyaki%/ai_labs/ai_env/Scripts/python.exe c:/Users/naima.maiyaki/%naima.maiyaki%/ai_labs/ai-course-lab0/environment_test.py
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.12.3
+✅ OS: Windows 11
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (C:\Users\naima.maiyaki\%naima.maiyaki%\ai_labs\ai_env)
+==================================================
+PS C:\Users\naima.maiyaki\%naima.maiyaki%\ai_labs> (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\naima.maiyaki\%naima.maiyaki%\ai_labs\ai_env\Scripts\Activate.ps1)
